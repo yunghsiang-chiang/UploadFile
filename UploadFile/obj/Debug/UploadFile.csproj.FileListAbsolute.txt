@@ -1,0 +1,130 @@
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\ApplicationInsights.config
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\roslyn\csc.exe
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\roslyn\System.Collections.Immutable.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\roslyn\vbc.exe
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\roslyn\VBCSCompiler.exe
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\roslyn\VBCSCompiler.exe.config
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\UploadFile.dll.config
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\UploadFile.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\UploadFile.pdb
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Microsoft.AI.Web.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Microsoft.AI.WindowsServer.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Microsoft.ApplicationInsights.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Newtonsoft.Json.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\System.Net.Http.Formatting.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\System.Web.Http.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\System.Web.Http.WebHost.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Microsoft.AI.Web.xml
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Microsoft.AI.WindowsServer.xml
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Microsoft.ApplicationInsights.xml
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Newtonsoft.Json.xml
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\System.Net.Http.Formatting.xml
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\System.Web.Http.xml
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\System.Web.Http.WebHost.xml
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\obj\Debug\UploadFile.csprojResolveAssemblyReference.cache
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\obj\Debug\UploadFile.dll
+c:\users\shahbaaz khan\documents\visual studio 2015\Projects\UploadFile\UploadFile\obj\Debug\UploadFile.pdb
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\ApplicationInsights.config
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\csc.exe
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\vbc.exe
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\VBCSCompiler.exe
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\UploadFile.dll.config
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\UploadFile.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\UploadFile.pdb
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.Web.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.ApplicationInsights.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Newtonsoft.Json.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Net.Http.Formatting.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Web.Http.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Web.Http.WebHost.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.Web.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.ApplicationInsights.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Newtonsoft.Json.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Net.Http.Formatting.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Web.Http.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Web.Http.WebHost.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\obj\Debug\UploadFile.csproj.AssemblyReference.cache
+C:\Users\egrou\source\repos\UploadFile\UploadFile\obj\Debug\UploadFile.csproj.CoreCompileInputs.cache
+C:\Users\egrou\source\repos\UploadFile\UploadFile\obj\Debug\UploadFile.csproj.Up2Date
+C:\Users\egrou\source\repos\UploadFile\UploadFile\obj\Debug\UploadFile.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\obj\Debug\UploadFile.pdb
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\csc.exe.config
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\csc.rsp
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\csi.exe
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\csi.exe.config
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\csi.rsp
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\System.Buffers.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\System.Memory.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\vbc.exe.config
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\roslyn\vbc.rsp
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Newtonsoft.Json.Bson.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Buffers.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Memory.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Numerics.Vectors.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.DependencyCollector.pdb
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.PerfCounterCollector.pdb
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.Web.pdb
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AI.WindowsServer.pdb
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.ApplicationInsights.pdb
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\Newtonsoft.Json.Bson.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Buffers.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Memory.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Numerics.Vectors.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Web.Cors.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Web.Http.Cors.dll
+C:\Users\egrou\source\repos\UploadFile\UploadFile\bin\System.Web.Http.Cors.xml

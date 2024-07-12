@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\egrou\\source\\repos\\UploadFile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|c:\\users\\egrou\\source\\repos\\uploadfile\\uploadfile\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|solutionrelative:uploadfile\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|c:\\users\\egrou\\source\\repos\\uploadfile\\uploadfile\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|solutionrelative:uploadfile\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|C:\\Users\\egrou\\source\\repos\\UploadFile\\uploadfile\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|solutionrelative:uploadfile\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|c:\\users\\egrou\\source\\repos\\uploadfile\\uploadfile\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|solutionrelative:uploadfile\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|c:\\users\\egrou\\source\\repos\\uploadfile\\uploadfile\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|solutionrelative:uploadfile\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|c:\\users\\egrou\\source\\repos\\uploadfile\\uploadfile\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|solutionrelative:uploadfile\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|c:\\users\\egrou\\source\\repos\\uploadfile\\uploadfile\\content\\styles\\upload.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|solutionrelative:uploadfile\\content\\styles\\upload.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|c:\\users\\egrou\\source\\repos\\uploadfile\\uploadfile\\content\\scripts\\file.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|solutionrelative:uploadfile\\content\\scripts\\file.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|c:\\users\\egrou\\source\\repos\\uploadfile\\uploadfile\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|solutionrelative:uploadfile\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|c:\\users\\egrou\\source\\repos\\uploadfile\\uploadfile\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808EC62B-793F-4A5B-BE5E-876F0BE0D7F9}|UploadFile\\UploadFile.csproj|solutionrelative:uploadfile\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FileUploadController.cs",
-              "DocumentMoniker": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\Controllers\\FileUploadController.cs",
-              "RelativeDocumentMoniker": "UploadFile\\Controllers\\FileUploadController.cs",
-              "ToolTip": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\Controllers\\FileUploadController.cs",
-              "RelativeToolTip": "UploadFile\\Controllers\\FileUploadController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T01:55:14.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\Web.config",
               "RelativeDocumentMoniker": "UploadFile\\Web.config",
               "ToolTip": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\Web.config",
               "RelativeToolTip": "UploadFile\\Web.config",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-20T01:50:40.541Z",
+              "WhenOpened": "2024-07-12T07:14:52.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\packages.config",
+              "RelativeDocumentMoniker": "UploadFile\\packages.config",
+              "ToolTip": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\packages.config",
+              "RelativeToolTip": "UploadFile\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-12T07:14:51.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\Global.asax.cs",
+              "RelativeDocumentMoniker": "UploadFile\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\Global.asax.cs",
+              "RelativeToolTip": "UploadFile\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:14:48.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationInsights.config",
+              "DocumentMoniker": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\ApplicationInsights.config",
+              "RelativeDocumentMoniker": "UploadFile\\ApplicationInsights.config",
+              "ToolTip": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\ApplicationInsights.config",
+              "RelativeToolTip": "UploadFile\\ApplicationInsights.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-12T07:14:36.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "upload.css",
+              "DocumentMoniker": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\Content\\Styles\\upload.css",
+              "RelativeDocumentMoniker": "UploadFile\\Content\\Styles\\upload.css",
+              "ToolTip": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\Content\\Styles\\upload.css",
+              "RelativeToolTip": "UploadFile\\Content\\Styles\\upload.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-12T07:14:32.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "file.js",
+              "DocumentMoniker": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\Content\\Scripts\\file.js",
+              "RelativeDocumentMoniker": "UploadFile\\Content\\Scripts\\file.js",
+              "ToolTip": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\Content\\Scripts\\file.js",
+              "RelativeToolTip": "UploadFile\\Content\\Scripts\\file.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-12T07:14:25.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "UploadFile\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "UploadFile\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:14:19.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileUploadController.cs",
+              "DocumentMoniker": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\Controllers\\FileUploadController.cs",
+              "RelativeDocumentMoniker": "UploadFile\\Controllers\\FileUploadController.cs",
+              "ToolTip": "C:\\Users\\egrou\\source\\repos\\UploadFile\\UploadFile\\Controllers\\FileUploadController.cs",
+              "RelativeToolTip": "UploadFile\\Controllers\\FileUploadController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:13:58.955Z",
               "EditorCaption": ""
             }
           ]

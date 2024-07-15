@@ -9,7 +9,7 @@ using System.Web.Http.Cors;
 
 namespace UploadFile.Controllers
 {
-    [EnableCors(origins: "http://192.168.11.51:8080", headers: "*", methods: "*")]
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class FileUploadController : ApiController
     {
         [HttpPost]

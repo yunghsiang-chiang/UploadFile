@@ -36,16 +36,17 @@ namespace UploadFile.Controllers
                     paths[i] = fileUrl;
                 }
 
-                // 判斷是否為 CKEditor 請求
-                if (HttpContext.Current.Request.Headers["User-Agent"] != null &&
-                    HttpContext.Current.Request.Headers["User-Agent"].Contains("CKEditor"))
-                {
-                    // CKEditor 的返回格式
-                    return Json(new { uploaded = true, url = paths[0] });
-                }
+                //// 判斷是否為 CKEditor 請求
+                //if (HttpContext.Current.Request.Headers["User-Agent"] != null &&
+                //    HttpContext.Current.Request.Headers["User-Agent"].Contains("CKEditor"))
+                //{
+                //    // CKEditor 的返回格式
+                //    return Json(new { uploaded = true, url = paths[0] });
+                //}
 
-                // 默認返回現有應用的字串數組格式
-                return Ok(paths);
+                //// 默認返回現有應用的字串數組格式
+                //return Ok(paths);
+                return Json(new { uploaded = true, url = paths[0] });
             }
             catch (Exception ex)
             {
